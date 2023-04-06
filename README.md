@@ -4,7 +4,7 @@
   <a href="https://github.com/TheDuckZuuki/Waffle-bot">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
-<h3 align="center">Waffle bot</h3>
+<h3 align="center">BlockBot</h3>
 
   <p align="center">
     Self hosted feature rich discord bot

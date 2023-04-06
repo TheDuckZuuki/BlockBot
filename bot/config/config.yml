@@ -1,0 +1,31 @@
+#  General config
+
+Token: 'MTA0NzE4MjU3Mjg2MzYyMzIwOA.GPhC7G.9Oga5wYl3FMKeTdmHll-bljtxlvDrJoP9xQehs'
+
+Licence-Key: 'secure.not'
+
+Guild-Id: 1046096307439284224
+
+#  Tickets
+
+Tickets:
+  Category-Id: 1046765527672049694
+  Support-Role-Id: 1048523586593378344
+
+
+#  Logging
+
+Logs:
+  Logs-Channel-Name: "𒌋・logs"
+  Enabled:
+    # Channel
+    Channel-Create: True
+    Channel-Edit: True
+    Channel-Delete: True
+    # Message
+    Message-Edit: True
+    Message-Delete: True
+    # Role
+    Role-Create: True
+    Role-Delete: True
+    Role-Edit: True
